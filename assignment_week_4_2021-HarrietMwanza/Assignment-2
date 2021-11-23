@@ -1,0 +1,82 @@
+Welcome to assignment 2, well done in your last assignment. 
+
+I appreciate your hard work :)
+
+ 
+
+In this assignment, we are testing whether you can optimize existing code and make them better by using functions. We are also testing how well you understand functions. Remember a good function does one and only one thing and it does it perfectly 
+
+Just a reminder that assignments are here to just give us feedback on how well we are doing and how we can improve and be better, it's not about punishing you for your mistakes :)
+
+And assignments are highly individual, plagiarism is a no no.
+
+In this assignment we are also testing your knowledge about loops implementation and collection implementation as well as manipulation.
+
+If there is something that is not clear to you, please ask for clarifications before you start coding and remember to come to office hours (with me or our TA) if you need help.
+
+
+
+SUBMISSION INSTRUCTIONS:
+
+You will be submitting different files (a file for each question) and ,
+Name each answer file as below:
+WeekNumber_AssignmentTitle_QuestionNumber_FirstnameLastname.
+ex: W4_A2_Q1_YourName.py  denotes Week4_Assignment2_Question1_YourName.py
+Copy the assignment GitHub repo link [URL link in the browser tab] and submit the link to your work on Canvas Submission Page.
+ 
+
+NOTE: All code that is not submitted on canvas will not be graded. This assignment is highly individual; any sign of plagiarism gives you a zero.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All the code must be submitted on github and the same link to canvas.
+
+Please make sure that you finish at least the first question by the first week of having this assignment.
+
+Now let’s play :)
+
+ 
+
+Question 1
+
+This is kind of a break for you, very easy 
+
+Go to Assignment 1 and refine your code (Assignment -1 Question 3), use functions to do everything.
+
+Remember a function does one and only one thing and it does it perfectly.
+
+
+
+
+Question 2
+
+Improve the hangman and ask the player if they want to play again, when the man dies or when the game ends, then start the game again.
+
+Count the number of wins and losses. And display all these values when the user opts not to play again.
+
+ For this question, please write the code on a different file than the one you used for the previous question about the hangman.
+
+
+
+
+Question 3
+
+Omondi is starting a new business, a car renting business.
+
+Omondi is starting with 5 different Cars.
+
+Each car has a model, a year when it was released, a year when Omondi acquired it, the money made from that car,
+
+the plate number of the car and the number of times that it has been in business. (It has been rented).
+
+As Omondi is looking into expansion, he wants to be able to rent the cars, add new cars to his collection,
+
+remove the cars from his collection, count the number that each car has been rented out and the money made from each car.
+
+Please help Omondi.
+
+ 
+
+
+
+ 
